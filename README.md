@@ -1,5 +1,6 @@
 #how to push local repo to github
 # follow the below command
+git init
 vim README.md
 git add .
 git commit -m "add readme.md"
